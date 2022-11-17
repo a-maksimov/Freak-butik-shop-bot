@@ -1,0 +1,1 @@
+Shop bot example with clients and product databases, paginated product presentation and services booking feature.
